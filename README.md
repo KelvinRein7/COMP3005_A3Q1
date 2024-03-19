@@ -14,6 +14,4 @@ Instructions
 7. Review main() function to see insertions, update, remove, modify test codes
 8. To run the program, do ```python a3.py```
 
-Video Link
-
-[DEMO](https://youtu.be/UFR3RZ6jKl8)
+Video Link : [DEMO](https://youtu.be/UFR3RZ6jKl8)
