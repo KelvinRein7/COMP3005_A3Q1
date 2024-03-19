@@ -7,7 +7,9 @@ Instructions
 
 1. Clone the repository or download it as a zip
 2. Open the folder
-3. From command line, do “pip install psycopg2”
+3. From command line, do ```bash
+    pip install psycopg2
+    ```
 4. Check and fix database connection parameters to your own parameters
 5. Use provided .SQL file to create students table
 6. Review main() function to see insertions, update, remove, modify test codes
